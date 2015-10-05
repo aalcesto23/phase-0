@@ -1,4 +1,4 @@
-# Reflect
+# Reflection
 
 How does tracking and adding changes make developers' lives easier?
 What is a commit?
