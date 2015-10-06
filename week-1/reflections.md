@@ -110,3 +110,5 @@ What struggles did you have setting up git and GitHub? What did you learn in the
 
 I did not have too much trouble setting up git and GitHub, especially with the written instructions and tutorial video being so informative. I never created a repository, forked it, and cloned it before this assignment, so learning this process is all new to me. It was a relief to see how easy GitHub makes it to take these actions. Also it was interesting cloning the repo via the terminal, rather than following the manual prompt on GitHub, which helped reinforce previous assignments using the command line.
 
+
+
