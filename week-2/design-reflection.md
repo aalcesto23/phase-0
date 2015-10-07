@@ -1,5 +1,5 @@
 
-![Alt text](aalcesto23/phase-0/blob/master/week-2/imgs/site-map.png)
+![Alt text](github.com/aalcesto23/phase-0/blob/master/week-2/design-reflection.md)
 
 
 What are the 6 Phases of Web Design?
