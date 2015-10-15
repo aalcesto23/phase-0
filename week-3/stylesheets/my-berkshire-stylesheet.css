@@ -1,0 +1,60 @@
+body {
+  background-color: #ffffff;
+  color: #000080;
+  font-style: normal;
+}
+header {
+  font-weight: bold;
+  text-align: center;
+  border-bottom: 1px solid black;
+}
+a:link {
+    color: #800080;
+}
+a:visited {
+  color: #ff0000;
+}
+.left {
+  float: left;
+  position: relative;
+}
+.right {
+  float: right;
+  position: relative;
+}
+.descrpt {
+  font-size: 10px;
+}
+.up-case {
+  font-size: 36px;
+  /*line-height: 0;*/
+}
+.address {
+  font-size: 13px;
+}
+li {
+  margin: 23px;
+}
+.homepage {
+  font-size: 15px;
+}
+.blank {
+  white-space: pre-line;
+}
+.logo-info {
+  clear: both;
+  font-size: 10px;
+  text-align: center;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+}
+.leave-comment {
+  font-size: 13px;
+  border-bottom: 1px solid black;
+}
+.copyright {
+  font-size: 8px;
+}
+.company-name {
+  font-weight: bold;
+}
