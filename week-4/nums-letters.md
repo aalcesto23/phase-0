@@ -24,3 +24,6 @@ puts 60*8760*10
 ```
 
 https://github.com/aalcesto23/phase-0/blob/master/week-4/defining-variables.rb
+
+https://github.com/aalcesto23/phase-0/blob/master/week-4/simple-string.rb
+
