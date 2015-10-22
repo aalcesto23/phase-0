@@ -1,0 +1,35 @@
+header {
+    font-weight: bold;
+    text-align: center;
+    border-bottom: 1px solid black;
+}
+h1 {
+    font-size: 3em;
+    font-family: Ariel;
+}
+.column-1 {
+    float: left;
+    position:relative;
+    width: 40%;
+    margin-bottom: 30px;
+    margin-left: 30px;
+}
+.column-2 {
+    float: right;
+    position: relative;
+    width: 40%;
+    margin-bottom: 30px;
+    margin-right: 30px;
+}
+footer {
+    border-top: 1px solid black;
+    clear: both;
+    font-size: .8em;
+    text-align: center;
+}
+a:link {
+    color: red;
+}
+summary {
+    background: #F0F8FF
+}
