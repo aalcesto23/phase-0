@@ -7,9 +7,19 @@
 # 0. Pseudocode
 
 # Input:
+# - number of sides
+# - a roll of the die
 # Output:
+# - a rolle of the die with a side
 # Steps:
+=begin
 
+- create a class for a die with X amount of sides
+- IF the amount of sides is less than 1, you will get an error
+- ELSE input of sides should be equal to number of sides on the die
+- RETURN a random number between one and the number of sides that was initially input
+	
+=end
 
 # 1. Initial Solution
 =begin
