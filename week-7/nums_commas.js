@@ -5,6 +5,13 @@
 
 // Pseudocode
 
+// - We take an integer
+// - Convert integer to string
+// - put string into an array
+// - measure the length of the array
+// - if the array legth is greater than three
+// - add a comma after the third element
+// - else will return the string
 
 
 // Initial Solution
