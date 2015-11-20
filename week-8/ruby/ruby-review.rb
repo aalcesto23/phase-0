@@ -15,12 +15,11 @@
 # Initial Solution
 
 # def reverse_words(string)
-#   string_array = string.split
-#   string_array.each do |word|
+#   array = string.split
+#   array.each do |word|
 #     word = word.reverse! + (" ")
 #   end
-#   reversed = string_array.join(" ")
-#   p reversed
+#   reversed = array.join(" ")
 # end
 
 # p reverse_words("I like cats")
